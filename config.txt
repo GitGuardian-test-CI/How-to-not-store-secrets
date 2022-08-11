@@ -1,1 +1,3 @@
 my_secret=Er3yXrZYMpKwQXZEGNYu24bXddUwJEar
+
+django_secret_key=54fsqd4d4qs99543qsd4457zea
